@@ -2,7 +2,9 @@
     "name": "ProjectTestRD1",
     "description": "First test of the Node-Red projects",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "node-red-node-pi-sense-hat": "0.0.18"
+    },
     "node-red": {
         "settings": {
             "flowFile": "flows_raspberrypi.json",
