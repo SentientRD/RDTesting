@@ -1,0 +1,12 @@
+{
+    "name": "ProjectTestRD1",
+    "description": "First test of the Node-Red projects",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_raspberrypi.json",
+            "credentialsFile": "flows_raspberrypi_cred.json"
+        }
+    }
+}
